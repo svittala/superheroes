@@ -1,0 +1,7 @@
+== Superheroes
+
+Superheroes is a cucumber demo application used in the Codeship Testing Tuesday screencast (http://blog.codeship.io/)
+
+This sample application can be used to demonstrate the power
+of cucumber to developers..
+the codeship code is changed to use selenium and firefox
